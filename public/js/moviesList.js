@@ -1,7 +1,7 @@
 console.log('MoviesList success')
 
 const body = document.querySelector('body');
-const h1 = document.querySelector('.moviesListTitulo');
+const h1 = document.querySelector('h1');
 
 const response = confirm('¿Desea modo oscuro?');
 
